@@ -1,3 +1,5 @@
+# 한정연, 컴퓨터공학부, 202303695
+
 import numpy as np
 import matplotlib.pyplot as plt
 
