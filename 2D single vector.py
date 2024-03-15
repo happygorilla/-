@@ -1,4 +1,5 @@
 # 한정연, 컴퓨터공학부, 202303695, 남
+# Alex(Han Jeong Yeon), Computer Engineering & Science, 202303695, Male
 
 import numpy as np
 import matplotlib.pyplot as plt
