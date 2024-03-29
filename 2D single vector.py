@@ -15,7 +15,7 @@ x3 = [5]
 y3 = [-4]
 # Creating plot
 plt. quiver(x1, y1, x2, y2, color='k', units='xy', scale=1)
-plt. quiver(x2, y2, x3, y3, color='b', units='xy', scale=1)
+plt. quiver(x2, y2, x3, y3, color='r', units='xy', scale=1)
 plt. quiver(x1, y1, x2.pop() + x3.pop(), y2.pop() + y3.pop(), color='r', units='xy', scale=1)
 
 #x-Lim and y-Lim
